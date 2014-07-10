@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/1.6/ref/settings/
 """
 
 import sys
-sys.path.append("/home/del/workspace/prestamos/prestamos")
+sys.path.append("/home/del/proyectos/prestamos/prestamos")
 from prestamos.settings import *
 
 

@@ -1,10 +1,10 @@
 DATABASES = {
         'default': {
-            'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'sop_sucursal',
-            'USER': 'sop_sucursal',
-            'PASSWORD': 'SOPsucursal*',
+            'ENGINE': 'django.db.backends.mysql',
+            'NAME': 'sucursal',
+            'USER': 'root',
+            'PASSWORD': 'root',
             'HOST': '',
             'PORT': '',
         }
-}
+    }
